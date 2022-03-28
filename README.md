@@ -1,6 +1,7 @@
 # Stock-Analysis-
 Homework
 ![image](https://user-images.githubusercontent.com/100006583/160307491-39f52707-2189-4dba-b66d-01320e07a241.png)
+![image](https://user-images.githubusercontent.com/100006583/160307976-2382c92a-3da5-42d4-8214-66c5a15a5220.png)
 
 ![image](https://user-images.githubusercontent.com/100006583/160307744-4f38fb06-a08c-47a0-b17d-b10c554272e4.png)
 
